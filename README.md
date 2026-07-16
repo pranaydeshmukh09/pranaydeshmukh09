@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Pranay Deshmukh 👋
 
-<!--
-**pranaydeshmukh09/pranaydeshmukh09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+🎯 Aspiring Automation Test Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning
+
+- Python
+- Selenium
+- Pytest
+- SQL
+- Git
+
+🚀 Goal
+
+Become a skilled Automation Test Engineer.
+
+Thank you for visiting my profile.
